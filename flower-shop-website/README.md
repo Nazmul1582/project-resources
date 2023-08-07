@@ -1,1 +1,1 @@
-## This is a assignemnt project of 2nd Milestone
+## This is the 1st assignment project of 1st Milestone - HTML, CSS and Github As A Beginner
